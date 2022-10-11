@@ -11,7 +11,7 @@
 
 -📫 How to reach me **sgulhane112020@gmail.com**
 
--📝 I love to write a technical content and share my knowledge
+-📝 always intrested to write a technical content and share my knowledge
 <br>
 <h2 align="center"> 🔭 Technology Stack</h2>
 <br>
