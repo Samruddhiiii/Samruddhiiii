@@ -1,3 +1,5 @@
+<!-- Profile count -->
+<img alt = "Visitors"  src = "https://komarev.com/ghpvc/?username=Samruddhiiii"/>
 <h1 align="center">Hi 👋, I'm Samruddhi </h1>
 <h3 align="center">A Passionate Learner, an Open Source Geek and A girl exploring the stuffs!!!coding...</h3>
 
