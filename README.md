@@ -7,9 +7,9 @@
 
 -🌱 I’m currently learning
 <br>
-1.Data Structures and Algorithms with Java
+1.Data Structures and Algorithms with Python
 <br>
-2.🔭 web development
+2.🔭 App development
 
 -📫 How to reach me **sgulhane112020@gmail.com**
 
