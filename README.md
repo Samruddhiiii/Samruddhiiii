@@ -28,6 +28,14 @@
 </p>
 <br>
 <h2 align="center">📊 Github Statistics </h2>
+<p align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhiiii&theme=dark&langs_count=4"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Samrudhiiii&theme=dark&show_icons=true"/>
+</p>
+<br/>
+<p align="center">
+   <img src="https://img.shields.io/badge/ Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best ! -black?style=for-the-badge"/>
+</p>
 </p><p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhiiii&theme=material-palenight" /></p>
 
