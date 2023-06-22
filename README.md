@@ -28,12 +28,6 @@
 </p>
 <br>
 <h2 align="center">📊 Github Statistics </h2>
-<p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhiiii&theme=dark&langs_count=2"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Samrudhiiii&theme=dark&show_icons=true"/>
-</p>
-
-<br/>
 
 </p><p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhiiii&theme=material-palenight" /></p>
