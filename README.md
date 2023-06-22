@@ -29,13 +29,11 @@
 <br>
 <h2 align="center">📊 Github Statistics </h2>
 <p align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhiiii&theme=dark&langs_count=4"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samrudhiiii&theme=dark&langs_count=2"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Samrudhiiii&theme=dark&show_icons=true"/>
 </p>
 <br/>
-<p align="center">
-   <img src="https://img.shields.io/badge/ Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best ! -black?style=for-the-badge"/>
-</p>
+
 </p><p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhiiii&theme=material-palenight" /></p>
 
@@ -46,6 +44,8 @@
   <a target="_blank"href="https://www.linkedin.com/in/samruddhi-gulhane-aa9326206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/Samruddhi_299"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sgulhane112020@gmail.com?subject=Hello%20Samruddhi,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<p align="center">
+   <img src="https://img.shields.io/badge/ Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best ! -black?style=for-the-badge"/>
+</p>
  
 </p>
