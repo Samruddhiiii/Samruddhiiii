@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Samruddhi </h1>
 <h3 align="center">A Passionate Learner, an Open Source Geek and A girl exploring the stuffs!!!coding...</h3>
 
--🏫 I,m pursuing Diploma in Computer Science & Engineering
+-🏫 CSE'26
 
 -🌱 I’m currently learning
 <br>
