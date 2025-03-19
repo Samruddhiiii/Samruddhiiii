@@ -27,13 +27,14 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />&nbsp;&nbsp;
 </p>
 <br>
+<!-- 
 <h2 align="center">📊 Github Statistics </h2>
 
 </p><p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhiiii&theme=material-palenight" /></p>
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samruddhiiii&layout=compact&hide=html&theme=jolly" alt="Samruddhi_Gulhane" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
-
+ -->
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/samruddhi-gulhane-aa9326206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
