@@ -1,7 +1,7 @@
 <!-- Profile count -->
 <img alt = "Visitors"  src = "https://komarev.com/ghpvc/?username=Samruddhiiii"/>
 <h1 align="center">Hi 👋, I'm Samruddhi </h1>
-<h3 align="center">A Passionate Learner, an Open Source Geek and A girl exploring the stuffs!!!coding...</h3>
+<h3 align="center">"An explorer in tech, open-source geek, and problem-solver at heart. Always learning. Always building."</h3>
 
 -🏫 CSE'26
 
